@@ -1,0 +1,15 @@
+# IntelliJ IDEA
+.idea/
+*.iml
+
+# Maven output
+target/
+
+# Local environment and logs
+.env
+*.log
+application-local.properties
+
+# Operating system files
+.DS_Store
+Thumbs.db
